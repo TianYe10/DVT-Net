@@ -15,9 +15,9 @@ We build a customized deep learning model for each of our inputs and concatenate
 
 The languages of **DVT-Net** are Python and Jupyter. You will need to activate an enviroment that have required packages downloaded to run thew code. For a complete pipeline, please refer to our [DVT-Net](https://github.com/TianYe10/DVT-Net/tree/main/DVT-NET).
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 
 
