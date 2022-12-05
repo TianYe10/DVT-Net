@@ -62,10 +62,10 @@ Ye Tian, Columbia BME
 Geoffrey Wu, Columbia CS
 
 
-Srilaxmi Bearelly, 
+Srilaxmi Bearelly, CUIMC
 
 
-Andrew Laine, CUIMC
+Andrew Laine, Columbia BME
 
 
 Kaveri A. Thakoor, CUIMC
