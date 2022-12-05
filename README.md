@@ -34,4 +34,5 @@ jupyter notebook Vessel_Segmentation_Images.ipynb
 
 
 
-To read more about topological data analysis, please refer to other educational literatures. (e.g. [An Introduction to Topological Data Analysis: Fundamental and Practical Aspects for Data Scientists](https://www.frontiersin.org/articles/10.3389/frai.2021.667963/full)
+To read more about topological data analysis, please refer to other educational literatures. 
+(e.g. [An Introduction to Topological Data Analysis: Fundamental and Practical Aspects for Data Scientists](https://www.frontiersin.org/articles/10.3389/frai.2021.667963/full))
