@@ -30,4 +30,4 @@ We implemented pretrained [Spatial Attention U-Net (SA-UNet)](https://arxiv.org/
 jupyter notebook Vessel_Segmentation_Images.ipynb
 ```
 
-### Pretrained SA-UNet to generate vessel segmentation images (VSI)
+### Convert VSI into persistence images
