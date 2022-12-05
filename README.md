@@ -24,8 +24,6 @@ the data.
 
 ### Pretrained SA-UNet to generate vessel segmentation images (VSI)
 
-From a range of values of the scale parameter, a filtration generates a sequence of embedded graph-like structures on the data points. Persistent homology (PH) quantifies topological features in the filtration.
-
 We implemented pretrained [Spatial Attention U-Net (SA-UNet)](https://arxiv.org/abs/2004.03696) to generate high-quality vessel segmentation images (VSI) with vascular features. We loaded the weights pretrained on [CHASE_DB1](https://paperswithcode.com/dataset/chase-db1) dataset and fine-tuned on our data.
 
 ```
@@ -34,7 +32,9 @@ jupyter notebook Vessel_Segmentation_Images.ipynb
 
 ### Convert VSI into persistence images
 
+From a range of values of the scale parameter, a filtration generates a sequence of embedded graph-like structures on the data points. Persistent homology (PH) quantifies topological features in the filtration.
 
+The outputs from PH are persistence diagrams and we then transformed the persistence diagrams into persistence images. 
 
 To read more about topological data analysis, please refer to other educational literatures. 
 (e.g. [An Introduction to Topological Data Analysis: Fundamental and Practical Aspects for Data Scientists](https://www.frontiersin.org/articles/10.3389/frai.2021.667963/full)  )
