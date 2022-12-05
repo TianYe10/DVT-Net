@@ -5,3 +5,10 @@
 This repo covers the full implementation of  ‘DVT-Net’ - [Deep Vascular Topology Network](https://github.com/TianYe10/DVT-Net/), a multimodal deep vascular topology network for disease prediction.
 
 ![Hybrid_RGB_VSI_TDA_new](https://user-images.githubusercontent.com/117670714/205598352-355f5a4f-cf25-4c87-b90b-1f58b787d801.png)
+
+
+## Introduction
+
+The architechture of DVT-Net leverages clinical knowledge pertaining to altered vessel morphology and propose a multimodal pipeline that combines retinal fundus RGB images, vessel segmentation images (VSIs), and Topological Data Analysis (TDA) to achieve accurate and interpretable disease detection.
+
+Swin Transformer (the name Swin stands for Shifted window) is initially described in arxiv
