@@ -71,4 +71,4 @@ Our **‘DVT-Net’** - Deep Vascular Topology Network is co-authored by:
 ***Kaveri A. Thakoor***, CUIMC
 
 
-***Liat Shenhav***, Physics and Biology at Rockefeller
+***Liat Shenhav***, Rockefeller
