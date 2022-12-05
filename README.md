@@ -14,12 +14,12 @@ The architechture of **DVT-Net** leverages clinical knowledge pertaining to alte
 
 We build a customized deep learning model for each of our inputs and concatenate features into a final unified model via late fusion. Specifically, we implemented pretrained ***swin-transformer-tiny*** on [ImageNet-1K](https://huggingface.co/datasets/imagenet-1k) as our image feature encoder for each one of the three input modalities. [Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) (the name Swin stands for Shifted window) is initially described by Microsoft, and the pretrained weights are imported from [TorchVision](https://pytorch.org/vision/main/models/generated/torchvision.models.swin_t.html#torchvision.models.swin_t) models
 
-The languages of **DVT-Net** are Python and Jupyter. You will need to activate an enviroment that have required packages downloaded to run thew code. For a complete pipeline, please refer to our [DVT-Net](https://github.com/TianYe10/DVT-Net/tree/main/DVT-NET).
+The languages of **DVT-Net** are Python and Jupyter. You will need to activate an enviroment that have required packages downloaded to run thew code. 
 
 ```
 pip install -r requirements.txt
 ```
-
+For a complete pipeline, please refer to our [DVT-Net](https://github.com/TianYe10/DVT-Net/tree/main/DVT-NET).
 
 
 ## Data Preparation
