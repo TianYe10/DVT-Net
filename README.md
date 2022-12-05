@@ -36,5 +36,10 @@ From a range of values of the scale parameter, a filtration generates a sequence
 
 The outputs from PH are persistence diagrams and we then transformed the persistence diagrams into persistence images. We provide a fast [pipeline](https://github.com/TianYe10/DVT-Net/blob/main/TDA/TDA_pipeline_fast.ipynb) to compute  Vietoris-Rips (VR) filtration or flooding filtration, and save the persistence diagrams.
 
+Use this example code to transform persistence diagrams into persistence images:
+```
+Python save_persistence.py --dataset=STARE --output=/save_path/
+```
+
 To read more about topological data analysis, please refer to other educational literatures. 
 (e.g. [An Introduction to Topological Data Analysis: Fundamental and Practical Aspects for Data Scientists](https://www.frontiersin.org/articles/10.3389/frai.2021.667963/full)  )
