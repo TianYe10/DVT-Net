@@ -19,4 +19,4 @@ We build a customized deep learning model for each of our inputs and concatenate
 
 ## Data Preparation
 
-The second modality of input, vessel segmentation images (VSIs), can be generated from original RGB images using image segmentation methods.
+The second modality of input, ***vessel segmentation images (VSIs)***, can be generated from original RGB images using image segmentation methods.
