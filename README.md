@@ -19,5 +19,7 @@ We build a customized deep learning model for each of our inputs and concatenate
 
 ## Data Preparation
 
-The second modality of input, **vessel segmentation images (VSIs)**, can be generated from original RGB images using image segmentation methods. The third modality of input, two-dimensional **persistence images**, are trasnformed from persistence diagrams, which visualize the existence and persistence of topological features in
+The second modality of input, **vessel segmentation images (VSIs)**, can be generated from original RGB images using image segmentation methods. The third modality of input, two-dimensional **persistence images** are trasnformed from persistence diagrams, which visualize the existence and persistence of topological features in
 the data.
+
+### We provide Spatial Attention U-Net (SA-UNet) to generate high-quality vessel segmentation images (VSI)
