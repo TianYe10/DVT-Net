@@ -9,6 +9,6 @@ This repo covers the full implementation of  ‘DVT-Net’ - [Deep Vascular Topo
 
 ## Introduction
 
-The architechture of DVT-Net leverages clinical knowledge pertaining to altered vessel morphology and propose a multimodal pipeline that combines retinal fundus RGB images, vessel segmentation images (VSIs), and Topological Data Analysis (TDA) to achieve accurate and interpretable disease detection.
+The architechture of DVT-Net leverages clinical knowledge pertaining to altered vessel morphology and propose a multimodal pipeline that combines retinal fundus RGB images, vessel segmentation images (VSIs), and Topological Data Analysis (TDA) to achieve accurate and interpretable disease detection. 
 
-Swin Transformer (the name Swin stands for Shifted window) is initially described in arxiv
+We build a customized deep learning model for each of our inputs and concatenate features into a final unified model. Specifically, we implemented pretrained swin-transformer-tiny on ImageNet-1K as our image feature encoder for each one of the three input modalities. [Swin Transformer](https://arxiv.org/pdf/2103.14030.pdf) (the name Swin stands for Shifted window) is initially described by Microsoft.
