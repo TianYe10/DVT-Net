@@ -2,10 +2,11 @@
 
 
 # DVT-Net
-This repo covers the full implementation of  ‘DVT-Net’ - [Deep Vascular Topology Network](https://github.com/TianYe10/DVT-Net/), a multimodal deep vascular topology network for disease prediction.
+This repo covers the full implementation of  ‘DVT-Net’ - [Deep Vascular Topology Network](https://github.com/TianYe10/DVT-Net/), a multimodal deep vascular topology network for disease prediction. 
 
 ![Hybrid_RGB_VSI_TDA_new](https://user-images.githubusercontent.com/117670714/205598352-355f5a4f-cf25-4c87-b90b-1f58b787d801.png)
 
+The work is under review of [the 20th IEEE International Symposium on Biomedical Imaging - ISBI 2023](http://2023.biomedicalimaging.org/en/).
 
 ## Introduction
 
@@ -46,5 +47,8 @@ Python save_persistence.py --dataset=STARE --output=/save_path/
 ```
 We provide a [tutorial](https://github.com/TianYe10/DVT-Net/blob/main/TDA/Persistence_Images.ipynb) based on [Persim](https://github.com/scikit-tda/persim), a Python package for many tools used in analyzing Persistence Diagrams. 
 
-To read more about topological data analysis, please refer to other educational literatures. 
+To learn more about topological data analysis, please refer to other educational literatures. 
 (e.g. [An Introduction to Topological Data Analysis: Fundamental and Practical Aspects for Data Scientists](https://www.frontiersin.org/articles/10.3389/frai.2021.667963/full)  )
+
+
+## Author
