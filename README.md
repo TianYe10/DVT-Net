@@ -36,7 +36,7 @@ From a range of values of the scale parameter, a filtration generates a sequence
 
 The outputs from PH are persistence diagrams and we then transformed the persistence diagrams into persistence images. We provide a fast [pipeline](https://github.com/TianYe10/DVT-Net/blob/main/TDA/TDA_pipeline_fast.ipynb) to compute  Vietoris-Rips (VR) filtration or flooding filtration, and save the persistence diagrams.
 
-Use this example code to transform persistence diagrams into persistence images:
+Use this [example code](https://github.com/TianYe10/DVT-Net/blob/main/TDA/save_persistence.py) to transform persistence diagrams into persistence images:
 ```
 Python save_persistence.py --dataset=STARE --output=/save_path/
 ```
