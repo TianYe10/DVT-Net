@@ -72,3 +72,5 @@ Our **‘DVT-Net’** - Deep Vascular Topology Network is co-authored by:
 
 
 ***Liat Shenhav***, Rockefeller
+
+If you find our work helpful, please consider citing us.
