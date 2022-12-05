@@ -40,6 +40,7 @@ Use this [example code](https://github.com/TianYe10/DVT-Net/blob/main/TDA/save_p
 ```
 Python save_persistence.py --dataset=STARE --output=/save_path/
 ```
+We provide a [tutorial](https://github.com/TianYe10/DVT-Net/blob/main/TDA/Persistence_Images.ipynb) based on [Persim](https://github.com/scikit-tda/persim), a Python package for many tools used in analyzing Persistence Diagrams. 
 
 To read more about topological data analysis, please refer to other educational literatures. 
 (e.g. [An Introduction to Topological Data Analysis: Fundamental and Practical Aspects for Data Scientists](https://www.frontiersin.org/articles/10.3389/frai.2021.667963/full)  )
