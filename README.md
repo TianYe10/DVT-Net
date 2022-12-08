@@ -6,7 +6,6 @@ This repo covers the full implementation of  ‘**DVT-Net**’ - [Deep Vascular 
 
 ![Hybrid_RGB_VSI_TDA_new](https://user-images.githubusercontent.com/117670714/205598352-355f5a4f-cf25-4c87-b90b-1f58b787d801.png)
 
-The work is under review of [the 20th IEEE International Symposium on Biomedical Imaging - ISBI 2023](http://2023.biomedicalimaging.org/en/).
 
 ## Introduction
 
