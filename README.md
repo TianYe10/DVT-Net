@@ -56,22 +56,6 @@ To learn more about topological data analysis, please refer to other educational
 Our **‘DVT-Net’** - Deep Vascular Topology Network is co-authored by:
 
 
-***Ye Tian***, Columbia BME
-
-
-***Geoffrey Wu***, Columbia CS
-
-
-***Srilaxmi Bearelly***, CUIMC
-
-
-***Andrew Laine***, Columbia BME
-
-
-***Kaveri A. Thakoor***, CUIMC
-
-
-***Liat Shenhav***, Rockefeller
 
 
 
